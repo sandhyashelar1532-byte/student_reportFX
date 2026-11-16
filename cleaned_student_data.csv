@@ -1,0 +1,11 @@
+Student,Age,Gender,Math_Score,Science_Score,Attendance,Gender_Encoded
+Amit,20,male,85,80,90,0
+Priya,21,female,92,95,95,1
+Rahul,19,male,67,70,75,0
+Sneha,20,female,88,85,88,1
+Neha,22,female,95,93,98,1
+Arjun,21,male,72,75,80,0
+Pooja,20,female,90,88,92,1
+Karan,19,male,65,68,70,0
+Riya,22,female,98,96,99,1
+Sahil,21,male,78,82,85,0
